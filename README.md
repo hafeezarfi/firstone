@@ -1,2 +1,2 @@
 # firstone
-just begin projects in cpp
+Just begin projects with swiss pocket knife.
